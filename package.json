@@ -1,0 +1,25 @@
+{
+  "name": "simple-web-calculator",
+  "version": "1.0.0",
+  "description": "This repository contains a simple calculator project implemented using HTML, CSS, and JavaScript.",
+  "main": "server.mjs",
+  "scripts": {
+    "test": "node --test",
+    "start": "node server.mjs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dipesh8650/Simple-Web-Calculator.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/Dipesh8650/Simple-Web-Calculator/issues"
+  },
+  "homepage": "https://github.com/Dipesh8650/Simple-Web-Calculator#readme",
+  "dependencies": {
+    "@kainostore/sdk": "0.1.0-beta.4"
+  }
+}
